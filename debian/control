@@ -1,0 +1,15 @@
+Source: deb-irit-archive-keyring
+Priority: important
+Section: misc
+Maintainer: Louis Royer <louis.royer@irit.fr>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://github.com/louisroyer-deb/deb-irit-archive-keyring
+Vcs-Git: https://github.com/louisroyer-deb/deb-irit-archive-keyring
+Rules-Requires-Root: no
+
+Package: deb-irit-archive-keyring
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: GnuPG archive keys of deb-irit archive
