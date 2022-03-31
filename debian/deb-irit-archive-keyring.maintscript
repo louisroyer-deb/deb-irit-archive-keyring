@@ -1,0 +1,1 @@
+rm_conffile /etc/apt/trusted.gpg.d/deb-irit-louis-royer-2022-03.gpg 2022.03.31~~
