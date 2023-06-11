@@ -1,3 +1,9 @@
+deb-irit-archive-keyring (2022.06.11) bookworm; urgency=medium
+
+  * Packaging for bookworm
+
+ -- Louis Royer <louis.royer@irit.fr>  Sun, 11 Jun 2023 12:31:53 +0200
+
 deb-irit-archive-keyring (2022.03.31) bullseye; urgency=medium
 
   * Add new archive key
